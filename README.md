@@ -3,6 +3,7 @@
 ## About
 
 Web application for helping in translating texts and remembering new words. 
+https://github.com/sahat/hackathon-starter
 
 ## Technologies
 
